@@ -3,7 +3,7 @@
 ### ⛳ Off the keyboard
 
 <a href="https://fairwayfinder.pro/golf/george/">
-  <img src="https://fairwayfinder.pro/golf/george/card.png" alt="George Bjork's golf stats" width="600">
+  <img src="https://fairwayfinder.pro/golf/george/card.png" alt="George Bjork's golf stats" width="400">
 </a>
 
 I built [FairwayFinder](https://fairwayfinder.pro), an iPhone golf stat tracker with an ASP.NET Core
